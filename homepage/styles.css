@@ -1,0 +1,10 @@
+.heading {
+text-align: center;
+color: white;
+margin-top: 20%;
+}
+.bg {
+    background-image: url("lowereastside.jpeg");
+   height: 100vh;
+   background-position: center;
+}
